@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RetrofitWithGsonExample.iml" filepath="$PROJECT_DIR$/RetrofitWithGsonExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retrofit_Example.iml" filepath="$PROJECT_DIR$/Retrofit_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,9 +1,9 @@
-package com.example.serpentcs.retrofitwithgsonexample;
+package com.retrofitwithgsonexample;
 
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by serpentcs on 13/12/17.
+ * Created by Dhaval Patel on 13/12/17.
  */
 
 public class RepoModel {
